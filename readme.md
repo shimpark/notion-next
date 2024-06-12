@@ -9,7 +9,7 @@ Please understand that the code and explanation are mainly written in Korean. �
 
 ## 🔗 미리보기 및 링크
 
-아래 사진들은 운영중인 제 블로그에서 가져온 리소스입니다... [2skydev blog](https://blog.2skydev.com)
+아래 사진들은 운영중인 제 블로그에서 가져온 리소스입니다.... [2skydev blog](https://blog.2skydev.com)
 
 ### 라이트모드
 <img width="1792" alt="image" src="https://user-images.githubusercontent.com/43225384/202594029-e17f0231-88e3-4b22-8496-c75213337f6d.png">
